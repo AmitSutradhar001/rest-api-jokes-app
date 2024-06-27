@@ -14,6 +14,7 @@ This project is a REST API for retrieving and managing jokes. It is built using 
 
 - **MongoDB**: For storing jokes
 - **Express**: Web framework for Node.js
+- **dotenv**: For .env file,
 - **CORS**: Middleware for enabling Cross-Origin Resource Sharing
 - **JavaScript**: Programming language
 - **Render**: Platform for deployment
